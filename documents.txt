@@ -1,0 +1,7 @@
+Machine learning is a branch of artificial intelligence.
+Deep learning uses neural networks.
+Natural language processing helps machines understand text.
+FAISS is a library for similarity search.
+Transformers are powerful models for NLP.
+Artificial intelligence is transforming industries worldwide.
+Python is widely used for data science.
